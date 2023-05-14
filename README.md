@@ -1,5 +1,6 @@
 # Pope-survivorlike
 Old project I decided to upload
+Executable to play: build/SurvivorLike.exe
 
 P - for pause and upgrade menu
 
