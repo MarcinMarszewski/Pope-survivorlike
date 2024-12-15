@@ -1,4 +1,4 @@
-# Pope-survivorlike
+# Survivorlike
 Old project I decided to upload
 
 Executable to play: build/SurvivorLike.exe
@@ -13,6 +13,4 @@ Rclick - to open the skill submenu
 
 Q,E - change spells
 
-Lcontrol (maybe it was Lshift?) - dash
-
-Bask in the glory of my shitty code!
+Lcontrol - dash
